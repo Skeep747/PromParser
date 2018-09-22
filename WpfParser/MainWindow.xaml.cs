@@ -110,7 +110,7 @@ namespace WpfParser
 
         private void LaunchPromParserOnGitHub(object sender, RoutedEventArgs e)
         {
-            Process.Start("https://github.com/Skeep747/PromParser");
+            Process.Start("https://github.com/mazanuj/PromParsing");
         }
     }
 }
